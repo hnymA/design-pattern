@@ -1,4 +1,6 @@
-package part1.iterator;
+package part1.iterator.a1;
+
+import part1.iterator.a1.BookShelf;
 
 public class BookShelfIterator implements Iterator {
 
