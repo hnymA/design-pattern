@@ -1,4 +1,4 @@
-package part1.iterator;
+package part1.iterator.s1;
 
 public class Book {
 
