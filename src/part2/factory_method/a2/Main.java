@@ -1,8 +1,8 @@
-package part2.factory.a2;
+package part2.factory_method.a2;
 
-import part2.factory.a2.framework.Factory;
-import part2.factory.a2.framework.Product;
-import part2.factory.a2.idcard.IDCardFactory;
+import part2.factory_method.a2.framework.Factory;
+import part2.factory_method.a2.framework.Product;
+import part2.factory_method.a2.idcard.IDCardFactory;
 
 public class Main {
 

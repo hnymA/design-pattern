@@ -1,9 +1,9 @@
-package part2.factory.s1.idcard;
+package part2.factory_method.s1.idcard;
 
 import java.util.ArrayList;
 import java.util.List;
-import part2.factory.s1.framework.Factory;
-import part2.factory.s1.framework.Product;
+import part2.factory_method.s1.framework.Factory;
+import part2.factory_method.s1.framework.Product;
 
 public class IDCardFactory extends Factory {
 
