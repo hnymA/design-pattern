@@ -1,4 +1,4 @@
-package part2.factory.s1.framework;
+package part2.factory_method.s1.framework;
 
 public abstract class Factory {
 

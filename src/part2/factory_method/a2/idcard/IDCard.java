@@ -1,6 +1,6 @@
-package part2.factory.a2.idcard;
+package part2.factory_method.a2.idcard;
 
-import part2.factory.a2.framework.Product;
+import part2.factory_method.a2.framework.Product;
 
 public class IDCard extends Product {
 

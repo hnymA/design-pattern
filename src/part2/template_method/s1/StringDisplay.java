@@ -1,4 +1,4 @@
-package part2.template.s1;
+package part2.template_method.s1;
 
 public class StringDisplay extends AbstractDisplay {
     private String string;

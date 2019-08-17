@@ -1,4 +1,4 @@
-package part2.template.s1;
+package part2.template_method.s1;
 
 public abstract class AbstractDisplay {
 
